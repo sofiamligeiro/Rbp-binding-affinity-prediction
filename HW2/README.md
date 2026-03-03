@@ -4,6 +4,7 @@ This project addresses the problem of RNA Binding Protein (RBP)–RNA interactio
 
 In this project, the task is formulated as a regression problem, where deep neural networks are trained to predict the binding affinity of RNA sequences for the RBP RBFOX1, using data derived from the RNAcompete experimental protocol. To address this problem, two different deep neural network models are implemented and compared. The models are built from scratch using PyTorch.
 
+This project was developed in the context of the course of Deep Learning.
 
 
 ## Instructions to run experiment

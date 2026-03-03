@@ -1,2 +1,0 @@
-input_channels,base_filters,out_dim,dropout_prob,attention_type,num_heads,lr,num_epochs,best_val_spearman,best_epoch
-4,64,1,0.2,channel_spatial,2,0.001,30,0.6497879028320312,24
